@@ -55,7 +55,7 @@ output_path = '~/.config/ghostty/themes/Matugen'
 post_hook = 'pkill -SIGUSR2 ghostty'
 
 [templates.starship]
-input_path = '~/.config/matugen/templates/starhip-colors.toml'
+input_path = '~/.config/matugen/templates/starship-colors.toml'
 output_path = '~/.config/starship.toml'
 
 [templates.vesktop]
